@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* navigation bar start */
+
+.container {
+    /* margin: 10px; */
+    padding: 10px;
+    background-color: rgb(61, 59, 59);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img_pic {
+    width: 190px;
+    height: 80px;
+}
+
+.menubar {
+    list-style: none;
+    display: flex;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.ulist {
+    margin-right: 40px;
+
+}
+
+.ulist:hover {
+    color: brown;
+}
