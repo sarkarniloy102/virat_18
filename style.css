@@ -85,3 +85,48 @@
     border-radius: 100px;
     box-shadow: 10px 10px 10px antiquewhite;
 }
+
+/* section 2 */
+/* Career status */
+.careersec {
+    background: linear-gradient(45deg, rgb(28, 28, 28), rgb(81, 68, 68));
+    padding: 10px;
+}
+
+.headcr {
+    text-align: center;
+    color: white;
+    height: 5px;
+}
+
+.container2 {
+
+    height: 500px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+}
+
+.child3 {
+    border: 2px solid antiquewhite;
+    width: 300px;
+    height: 370px;
+    color: white;
+    padding: 10px;
+    padding-top: 20px;
+    text-align: center;
+    background-color: rgb(26, 32, 37);
+    box-shadow: 10px 10px 15px antiquewhite;
+}
+
+.icon {
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+.head2 {
+    color: rgb(164, 231, 247);
+    margin-bottom: 10px;
+}
