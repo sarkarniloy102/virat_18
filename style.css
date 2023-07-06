@@ -35,3 +35,53 @@
 .ulist:hover {
     color: brown;
 }
+
+/* <!-- main part start --> */
+/* <!-- section1 ...banner --> */
+.container1 {
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+
+    /* background-color: black; */
+    background: linear-gradient(45deg, rgb(46, 32, 32), rgb(28, 26, 26));
+}
+
+.child1 {
+    color: white;
+    margin-left: 20px;
+    padding: 8px;
+}
+
+.head1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.para1 {
+    font-size: 18px;
+    margin-top: 8px;
+}
+
+.btn {
+    color: antiquewhite;
+    background-color: rgb(52, 49, 49);
+    padding: 10px;
+    border-radius: 3px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    color: coral;
+}
+
+.bnrpic {
+    /* width: 300px; */
+    height: 400px;
+    border: 1px solid antiquewhite;
+    border-radius: 100px;
+    box-shadow: 10px 10px 10px antiquewhite;
+}
